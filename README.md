@@ -113,7 +113,7 @@
   </tr>
   <tr>
     <td>LinkedIn</td>
-    <td><a href="https://www.linkedin.com/in/zusiphe-mvovo-414651358</a></td>
+    <td><a href="https://www.linkedin.com/in/zusiphe-mvovo-414651358>linkedin.com/in/zusiphe-mvovo</a></td>
   </tr>
 </table>
 
@@ -131,7 +131,7 @@
   </tr>
   <tr>
     <td>Period</td>
-    <td>2024 - 2026 Present</td>
+    <td>2024 - 2026</td>
   </tr>
 </table>
 
@@ -143,7 +143,7 @@
   </tr>
   <tr>
     <td>Date Obtained</td>
-    <td>2023/01/16</td>
+    <td>2023</td>
   </tr>
 </table>
 
@@ -161,7 +161,7 @@
 <h2>Projects</h2>
 
 <div class="project-box">
-<h3>KeepITBlue</h3>
+<h3>KeepITBlue-2024</h3>
 <table>
   <tr>
     <td>Description</td>
@@ -174,13 +174,13 @@
   <tr>
     <td>Link</td>
     <td><a href="https://github.com/Zusiphe04/KeepITBlue.git">View Project</a></td>
-     <td>Period - 2024</td>
+    
   </tr>
 </table>
 </div>
 
 <div class="project-box">
-<h3>UniVent</h3>
+<h3>UniVent-2026</h3>
 <table>
   <tr>
     <td>Description</td>
@@ -193,11 +193,17 @@
   <tr>
     <td>Link</td>
     <td><a href="https://github.com/Zusiphe04/UniVent.git">View Project</a></td>
-    <td>Period - 2026</td>
+  
   </tr>
 </table>
 </div>
+<h2>Mock Interview Video</h2>
 
+<div class="video-container">
+<video width="600" controls>
+  <source src="Interview.mp4" type="video/mp4">
+</video>
+</div>
 <h2>References</h2>
 
 <div class="reference-box">
@@ -221,13 +227,30 @@
   </tr>
 </table>
 </div>
-<h2>Mock Interview Video</h2>
-
-<div class="video-container">
-<video width="600" controls>
-  <source src="assets/Interview.mp4" type="video/mp4">
-</video>
+<div class="reference-box">
+<h3>Reference 2</h3>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Daisy Kwinana</td>
+  </tr>
+  <tr>
+    <td>Organisation</td>
+    <td>CPUT Mentor</td>
+  </tr>
+  <tr>
+    <td>Email</td>
+    <td>210716286@mycput.ac.za </td>
+  </tr>
+  <tr>
+    <td>Contact</td>
+    <td>+27 60 320 6555</td>
+  </tr>
+</table>
 </div>
+
+
+
 
 
  
