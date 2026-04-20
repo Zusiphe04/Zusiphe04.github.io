@@ -1,256 +1,140 @@
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    color: #333333;
-    max-width: 900px;
-    margin: auto;
-    padding: 20px;
-    background-color: #f9f9f9;
-  }
+# 👩🏾‍💻 Zusiphe Precious Mvovo — Digital Portfolio
 
-  h1 {
-    color: #003366;
-    text-align: center;
-    border-bottom: 3px solid #003366;
-    padding-bottom: 10px;
-  }
+📍 10 Plein Street, Cape Town &nbsp;|&nbsp; 📞 0656223346 &nbsp;|&nbsp; 📧 230816851@mycput.ac.za
 
-  h2 {
-    color: #005599;
-    border-left: 5px solid #005599;
-    padding-left: 10px;
-    margin-top: 30px;
-  }
+🔗 [GitHub](https://github.com/Zusiphe04) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/zusiphe-mvovo-414651358/)
 
-  h3 {
-    color: #333333;
-  }
+---
 
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 10px;
-  }
+## 📌 About Me
 
-  td {
-    padding: 8px 12px;
-    border: 1px solid #cccccc;
-    background-color: #ffffff;
-  }
+I am a 3rd year ICT Applications Development student at Cape Peninsula University of Technology (CPUT). I am passionate about building meaningful digital solutions and developing my skills as a well-rounded software developer. This portfolio showcases my work readiness training, projects, and reflections on my learning journey.
 
-  td:first-child {
-    font-weight: bold;
-    background-color: #e8f0fe;
-    width: 30%;
-  }
+---
 
-  ul {
-    list-style-type: disc;
-    padding-left: 20px;
-  }
+## 🎓 Education
 
-  ul li {
-    margin: 5px 0;
-    background-color: #ffffff;
-    padding: 5px 10px;
-    border-radius: 4px;
-    border: 1px solid #dddddd;
-  }
+**Cape Peninsula University of Technology**  
+Diploma in ICT: Applications Development  
+3rd Year | 2024 – 2026
 
-  .video-container {
-    background-color: #ffffff;
-    padding: 15px;
-    border: 1px solid #dddddd;
-    border-radius: 6px;
-    margin-top: 10px;
-  }
+---
 
-  .reference-box {
-    background-color: #ffffff;
-    border: 1px solid #dddddd;
-    border-radius: 6px;
-    padding: 15px;
-    margin-bottom: 15px;
-  }
 
-  .project-box {
-    background-color: #ffffff;
-    border: 1px solid #dddddd;
-    border-radius: 6px;
-    padding: 15px;
-    margin-bottom: 15px;
-  }
 
-  .objective-box {
-    background-color: #e8f0fe;
-    border-left: 5px solid #003366;
-    padding: 15px;
-    border-radius: 4px;
-    font-style: italic;
-  }
-</style>
+### Personal Details
 
-#  Zusiphe Precious Mvovo
+| | |
+|---|---|
+| **Full Name** | Zusiphe Precious Mvovo |
+| **Address** | 10 Plein Street, Cape Town |
+| **Phone** | 0656223346 |
+| **Email** | 230816851@mycput.ac.za |
+| **GitHub** | [github.com/Zusiphe04](https://github.com/Zusiphe04) |
+| **LinkedIn** | [linkedin.com/in/zusiphe-mvovo-414651358](https://www.linkedin.com/in/zusiphe-mvovo-414651358/) |
 
-<h2>Personal Details</h2>
+---
 
-<table>
-  <tr>
-    <td>Email</td>
-    <td>230816851@mycput.ac.za</td>
-  </tr>
-  <tr>
-    <td>Contact Number</td>
-    <td>+27 65 622 3346</td>
-  </tr>
-  <tr>
-    <td>Address</td>
-    <td>10 Plein street Cape Town, South Africa</td>
-  </tr>
-  <tr>
-    <td>GitHub</td>
-    <td><a href="https://github.com/Zusiphe04">github.com/Zusiphe04</a></td>
-  </tr>
-  <tr>
-    <td>LinkedIn</td>
-    <td><a href="https://www.linkedin.com/in/zusiphe-mvovo-414651358>linkedin.com/in/zusiphe-mvovo</a></td>
-  </tr>
-</table>
+### 💼 Work & Project Experience
 
-<h2>Education</h2>
+#### KeepITBlue — Community & Conservation Web Platform
+*November 2024*
 
-<h3>Cape Peninsula University of Technology</h3>
-<table>
-  <tr>
-    <td>Qualification</td>
-    <td>Diploma in ICT - Software Development</td>
-  </tr>
-  <tr>
-    <td>Year of Study</td>
-    <td>3rd Year</td>
-  </tr>
-  <tr>
-    <td>Period</td>
-    <td>2024 - 2026</td>
-  </tr>
-</table>
+- Collaborated in a team of six to develop an interactive web platform.
+- Built front-end components using HTML, CSS, and JavaScript.
+- Contributed to user interface design and functionality improvements.
+- Supported digital solutions for ocean conservation initiatives.
 
-<h3> Rakgatla High School </h3>
-<table>
-  <tr>
-    <td>Qualification</td>
-    <td>National Senior Certificate</td>
-  </tr>
-  <tr>
-    <td>Date Obtained</td>
-    <td>2023</td>
-  </tr>
-</table>
+---
 
-<h2>Technical Skills</h2>
+#### Access Guard — Accessible Campus Navigation App
+*March – November 2025*
 
-* PHP
-* Java
-* HTML
-* CSS
-* JavaScript
-* GitHub
-* Agile Development
-* Object Oriented Programming
+- Collaborated with a team of six to develop a cross-platform mobile app for accessible campus navigation.
+- Built front-end components using Flutter for iOS and Android.
+- Participated in implementing a live campus map, custom routing, and obstacle reporting features.
+- Integrated Google Maps API and React.js for navigation and admin dashboard.
 
-<h2>Projects</h2>
+---
 
-<div class="project-box">
-<h3>KeepITBlue-2024</h3>
-<table>
-  <tr>
-    <td>Description</td>
-    <td>KeepITBlue is a community and conversation web platform that supports digital solutions for ocean conservation initiatives, where I collaborated in a team of six to develop an interactive web platform by building front-end components using HTML, CSS, and JavaScript while contributing to user interface design and functionality improvements.</td>
-  </tr>
-  <tr>
-    <td>Technologies Used</td>
-    <td> HTML, CSS,JavaScript and GitHub</td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><a href="https://github.com/Zusiphe04/KeepITBlue.git">View Project</a></td>
-    
-  </tr>
-</table>
-</div>
+### 🛠️ Skills
 
-<div class="project-box">
-<h3>UniVent-2026</h3>
-<table>
-  <tr>
-    <td>Description</td>
-    <td>UniVent is a campus event discovery system that allows students to discover and register for campus events, organizers to create and manage events, and administrators to oversee and manage the entire system.</td>
-  </tr>
-  <tr>
-    <td>Technologies Used</td>
-    <td>Java, GitHub</td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><a href="https://github.com/Zusiphe04/UniVent.git">View Project</a></td>
-  
-  </tr>
-</table>
-</div>
-<h2>Mock Interview Video</h2>
+| Technical Skills | Soft Skills |
+|---|---|
+| Java | Creative Problem Solving |
+| JavaScript | Communication Skills |
+| PHP | Project Management |
+| Git | Teamwork |
+| HTML & CSS | |
+| Flutter | |
+| React.js | |
 
-<div class="video-container">
-<video width="600" controls>
-  <source src="Interview.mp4" type="video/mp4">
+---
+
+### 📌 Reference
+
+**Name:** Olwethu Pamela Mazaleni  
+**Company:** CPUT Mentor  
+**Contact Number:** 0793963472  
+**Email:** 210717988@mycput.ac.za
+
+---
+
+## 🎥 Mock Interview Video
+
+<video width="640" height="360" controls>
+  <source src="https://Zusiphe04.github.io/Interview.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
-</div>
-<h2>References</h2>
 
-<div class="reference-box">
-<h3>Reference 1</h3>
-<table>
-  <tr>
-    <td>Name</td>
-    <td>Olwethu Pamela Mazaleni</td>
-  </tr>
-  <tr>
-    <td>Organisation</td>
-    <td>CPUT Mentor</td>
-  </tr>
-  <tr>
-    <td>Email</td>
-    <td>210717988@mycput.ac.za</td>
-  </tr>
-  <tr>
-    <td>Contact</td>
-    <td>+27 79 396 3472</td>
-  </tr>
-</table>
-</div>
-<div class="reference-box">
-<h3>Reference 2</h3>
-<table>
-  <tr>
-    <td>Name</td>
-    <td>Daisy Kwinana</td>
-  </tr>
-  <tr>
-    <td>Organisation</td>
-    <td>CPUT Mentor</td>
-  </tr>
-  <tr>
-    <td>Email</td>
-    <td>210716286@mycput.ac.za </td>
-  </tr>
-  <tr>
-    <td>Contact</td>
-    <td>+27 60 320 6555</td>
-  </tr>
-</table>
-</div>
+---
 
+## 📝 Reflection: Coding in Markdown
 
+### Situation
+During my third year at Cape Peninsula University of Technology, I was required to build a digital portfolio as part of my Project Presentation 3 assessment. The portfolio had to be designed and deployed using GitHub, which meant I needed to write and format content using Markdown — a language I had not worked with extensively before.
 
+### Task
+My task was to code my CV and portfolio content entirely in Markdown, following GitHub Flavoured Markdown (GFM) conventions. I needed to create well-structured, readable, and properly formatted pages that would render correctly on GitHub and GitHub Pages.
 
+### Action
+I researched GitHub Flavoured Markdown syntax, including how to use headings, bullet points, tables, bold and italic text, and how to embed links and images. I practised writing and previewing my Markdown files directly in the GitHub editor to see how the formatting rendered in real time. I also referred to the GitHub documentation to understand custom extensions like task lists and alerts.
 
- 
+### Result
+I successfully coded my CV and portfolio content in Markdown. The experience gave me a solid understanding of how developers communicate clearly and organise content in repositories. I now feel confident using Markdown for README files, documentation, and future projects, which is a valuable skill in any software development environment.
+
+---
+
+## 🎤 Reflection: Mock Interview Experience
+
+### Situation
+As part of my work readiness training at CPUT, I participated in a mock interview exercise designed to prepare students for real-world job interviews in the ICT industry. This was my first formal interview simulation, and I felt nervous about presenting myself professionally under pressure.
+
+### Task
+I was required to participate in a mock interview, respond to common interview questions, present myself confidently, and record the session as evidence for my digital portfolio. The goal was to demonstrate communication skills, self-awareness, and readiness for the workplace.
+
+### Action
+To prepare, I researched common ICT interview questions and practised answering them using the STAR method. I prepared talking points about my projects, KeepITBlue and Access Guard, to use as examples of my technical and teamwork skills. On the day of the interview, I focused on maintaining eye contact, speaking clearly, and structuring my answers logically. After the session, I reviewed the recording to identify areas for improvement.
+
+### Result
+The mock interview helped me become more aware of my strengths and areas for growth, particularly in staying calm under pressure and articulating my technical experience clearly. I gained confidence in presenting myself as a professional, and the exercise made me feel significantly more prepared for real job interviews in the future.
+
+---
+
+## 🌐 Reflection: Using GitHub Pages
+
+### Situation
+As part of my Project Presentation 3 assessment, I was required to publish my digital portfolio online using GitHub Pages. Before this assessment, I had only used GitHub for version control and code storage, and had no experience deploying a live website through the platform.
+
+### Task
+My task was to configure my GitHub repository so that it would be deployed and accessible as a live website via GitHub Pages. The portfolio needed to be publicly accessible and display all my portfolio content correctly, including my CV and mock interview video.
+
+### Action
+I followed the GitHub Pages documentation to enable the feature in my repository settings. I selected the correct branch to deploy from and ensured my main file was named correctly so GitHub Pages could detect and serve it. I tested the deployed link to confirm all pages and media loaded correctly, and made updates to my repository whenever changes were needed.
+
+### Result
+My portfolio was successfully published and is now accessible as a live website. This experience taught me how to deploy and host a static website for free using GitHub Pages, which is a practical and widely used skill in the web development industry. It also gave me a sense of accomplishment seeing my work live on the internet for the first time.
+
+---
+
+*© 2026 Zusiphe Precious Mvovo · CPUT · Project Presentation 3*
