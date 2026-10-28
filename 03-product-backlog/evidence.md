@@ -13,9 +13,7 @@
 
 ### Screenshot Evidence
 
-<p align="left">
-  <img src="../assets/localpro_categories_search.png" alt="Featured Service Pros and Categories" width="700">
-</p>
+![Featured Service Pros and Categories](../assets/localpro_categories_search.png)
 
 *Figure 1. Top-rated Featured Pros section displaying category tags, ratings, locations, and direct call/quote buttons.*
 
@@ -30,8 +28,6 @@
 
 ### Screenshot Evidence
 
-<p align="left">
-  <img src="../assets/localpro_dashboard_profile_settings.png" alt="Business Profile Details Form" width="700">
-</p>
+![Business Profile Details Form](../assets/localpro_dashboard_profile_settings.png)
 
 *Figure 2. Business dashboard profile management interface with editable business fields and cover photo upload locks.*
